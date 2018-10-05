@@ -8,5 +8,4 @@ setup(name='cmutil',
       author_email='',
       license='',
       packages=['cmutil'],
-      zip_safe=False,
       install_requires=['declxml'])
